@@ -29,6 +29,7 @@ export default function RootLayout({
             <Toaster />
           </SkillProvider>
         </Providers>
+        <></>
       </body>
     </html>
   );
